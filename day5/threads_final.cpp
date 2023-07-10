@@ -123,8 +123,7 @@ int main(){
    
    input_thread.join();
    processing_thread.join();
-   output_thread.join();
-   
+   output_thread.join();  
 
    return 0;
 }

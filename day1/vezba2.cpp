@@ -30,7 +30,7 @@ int main(){
 	
 	
 	std::cout << k << std::endl;
-	//constexpr int l = fibo(300); // 300. Фибоначијев број је превелик за int
+	//constexpr int l = fibo(300); // 300th Fibonaci's number is too large for int!
 	
 	return 0;
 }
